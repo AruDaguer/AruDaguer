@@ -1,6 +1,7 @@
-### Oii, eu sou a Laura!
+### 
+Hi, I'm Laura!
 
-- 🖥️ Cursando Informática no IFSP
+- 🖥️ Studying Computer Science at IFSP
 <h2>
 </h2>
 
