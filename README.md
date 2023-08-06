@@ -1,5 +1,4 @@
-### I am studying:
- 
+### ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ: 
   <div style="display: inline_block"><br>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="100"/>
