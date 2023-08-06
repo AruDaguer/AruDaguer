@@ -1,5 +1,5 @@
 ### ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ: 
-  style="display: inline_block"><br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="100"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="100"/>
