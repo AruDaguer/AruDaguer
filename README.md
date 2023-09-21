@@ -1,7 +1,7 @@
-### Hi! 👋, I'm Laura Daguer</h1>
+<h1 align="center">Hi! 👋, I'm Laura Daguer</h1>
 <h3 align="center">💻 Software Engineering Student (IFSP)</h3>
 
-
+<br/>
 
 ## WELCOME TO MY GITHUB
 
