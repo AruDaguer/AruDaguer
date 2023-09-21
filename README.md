@@ -1,3 +1,5 @@
+<h1 align="center">Hi! 👋, I'm Laura Daguer</h1>
+
 ### ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ: 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="100"/> <img 
