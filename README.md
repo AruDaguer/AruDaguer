@@ -5,12 +5,9 @@
 
 ## WELCOME TO MY GITHUB
 
-
-  <div>
   <a href="https://github.com/AruDaguer">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AruDaguer&layout=compact&langs_count=7&theme=dracula"/> <img 
   height="150em" src="https://github-readme-stats.vercel.app/api?username=AruDaguer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
 
 
 ### ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ: 
@@ -24,7 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="100"/>
 
 
-  <p align="right">
+### ʀᴇᴀᴄʜ ᴍᴇ
+
+  <p align="left">
+  <a href="https://www.linkedin.com/in/laura-daguer-024730292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/arudaguer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/781513965146341387" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: laura.daguerds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
