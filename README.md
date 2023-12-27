@@ -30,6 +30,8 @@
 </a>  
 </p>
 
+<br>
+
 ```yaml
 nome: Laura Daguer
 localização: São Paulo, Brasil
@@ -44,6 +46,8 @@ atualmente aprendendo: ["python", "html"]
 aprenderá: ["php"]
 hobbies: ["dança", "instrumentos musicais", "teatro", "leitura"]
 ```
+
+</br>
 
 <div>
 <img align="left" alt="myOctocat" width="300" src="https://github.com/AruDaguer/AruDaguer/assets/108810555/5abc01ad-8c91-49b5-bc4c-06eaab8d1797">
