@@ -45,19 +45,22 @@ aprenderá: ["php"]
 hobbies: ["dança", "instrumentos musicais", "teatro", "leitura"]
 ```
 
+<div>
 <img align="left" alt="myOctocat" width="300" src="https://github.com/AruDaguer/AruDaguer/assets/108810555/5abc01ad-8c91-49b5-bc4c-06eaab8d1797">
+</div>
 
+<div>
 <br>
 <p align="right">
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
   <img alt="laura's Spotify" width="120px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-</p>
 </br>
 
-<p align="right">
+<br>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
 </p>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=footer"/>
 
