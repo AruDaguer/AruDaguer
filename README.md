@@ -1,35 +1,69 @@
-<h1 align="center">Hi! 👋, I'm Laura Daguer</h1>
-<h3 align="center">💻 Software Engineering Student (IFSP)</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=header"/>
+<img align="right" alt="myOctocat" width="300" src="https://github.com/AruDaguer/AruDaguer/assets/108810555/86c1f992-d4cc-4178-bc3d-ec962c234a44">
+
+
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD5C5C&size=35&left=true&vCenter=true&width=500&lines=Bem+Vindo+ao+meu+Github)
+
+
+
+### 👨🏻‍💻 MINHAS LINGUAGENS :
+<div>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+</div>
+
+### 📫 MEUS CONTATOS :
+<a href="https://www.linkedin.com/in/laura-daguer-024730292/">
+  <img alt="guilyx's LinkdeIN" width="105px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/arudaguer/">
+  <img alt="laura's Instagram" width="115px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discordapp.com/users/781513965146341387">
+  <img alt="laura's Discord" width="99px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto: laura.daguerds@gmail.com">
+  <img alt="laura's Email" width="86px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+</p>
+
+```yaml
+nome: Laura Daguer
+localização: São Paulo, Brasil
+educação: ["Tecnico em Informática"]
+empresa: IFSP - Instituto Federal de São Paulo
+projetos finalizados:
+   - ["Elixir Maker", "Gerenciador de ficha de RPG", "2023"]
+   - ["ATOM", "Robõ Sumo", "2023"]
+   - ["Simulador Pregão", "Simulador do pregão na bolsa de valores", "2023"]
+   - ["GI360", "Site informatívo sobre finanças", "2023"]
+atualmente aprendendo: ["python", "html"]
+aprenderá: ["php"]
+hobbies: ["dança", "instrumentos musicais", "teatro", "leitura"]
+```
+
+<img align="left" alt="myOctocat" width="300" src="https://github.com/AruDaguer/AruDaguer/assets/108810555/15bb45b8-8708-423a-a877-418ccd540928">
+
 
 <br/>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="laura's Spotify" width="91px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<br>
 
-## WELCOME TO MY GITHUB
+<p align="right">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
+</p>
 
-  <a href="https://github.com/AruDaguer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AruDaguer&layout=compact&langs_count=7&theme=dracula"/> <img 
-  height="150em" src="https://github-readme-stats.vercel.app/api?username=AruDaguer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
-### ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ: 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="100"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="45" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="100"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=footer"/>
 
 
 
-### ʀᴇᴀᴄʜ ᴍᴇ
 
-  <p align="left">
-  <a href="https://www.linkedin.com/in/laura-daguer-024730292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/arudaguer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/781513965146341387" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: laura.daguerds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 
 
