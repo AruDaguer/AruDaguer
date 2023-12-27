@@ -35,8 +35,9 @@
 ```yaml
 nome: Laura Daguer
 localização: São Paulo, Brasil
+cargo: Estudante
 educação: ["Tecnico em Informática"]
-empresa: IFSP - Instituto Federal de São Paulo
+instituição: IFSP - Instituto Federal de São Paulo
 projetos finalizados:
    - ["Elixir Maker", "Gerenciador de ficha de RPG", "2023"]
    - ["ATOM", "Robõ Sumo", "2023"]
