@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=header"/>
 <img align="right" alt="myOctocat" width="300" src="https://github.com/AruDaguer/AruDaguer/assets/108810555/86c1f992-d4cc-4178-bc3d-ec962c234a44">
 
 
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD5C5C&size=35&left=true&vCenter=true&width=500&lines=Bem+Vindo+ao+meu+Github)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=35&left=true&vCenter=true&width=500&lines=Bem+Vindo+ao+meu+Github)
 
 
 
@@ -67,7 +67,7 @@ hobbies: ["dança", "instrumentos musicais", "teatro", "leitura"]
 </p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=footer"/>
 
 
 
