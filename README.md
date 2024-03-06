@@ -29,7 +29,7 @@
 
 
 #### ABOUT ME
-<img align="right" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
+<img align="right" width="320" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
 
 ```yaml
 nome: Laura Daguer
