@@ -1,6 +1,6 @@
 ### Hi, I'm Laura! &nbsp;&nbsp;<sup>👾 &#12299;WELCOME TO MY PROFILE! </sup>
 ----
-<img align="right" width="410" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
+<img align="right" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
 
 <div>
 <img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python">
@@ -11,7 +11,7 @@
 
 ----
 
-I'm Laura Daguer, a student in Computer Science at the Federal Institute of São Paulo (IFSP), currently based in São Paulo. I'm focused on expanding my knowledge, especially in Python and HTML, with future plans to explore PHP. I'm interested in the user experience (UX) area. Outside of studies, I enjoy dancing, playing music, participating in theater, and reading. I've completed projects like "Elixir Maker," "RPG character sheet manager," and "ATOM" (a Sumo robot), all in 2023, along with "Stock Exchange Trading Simulator" and "GI360," a finance information website.
+ * I'm Laura Daguer, INFO student at IFSP, São Paulo. I dedicate myself to the study of Python, HTML, and PHP, with a special interest in UX. Outside of studies, I enjoy dancing, music, theater, and reading. I have completed notable projects in 2023, including "Elixir Maker," "RPG Manager," "ATOM," "Stock Exchange Simulator," and "GI360."
 
 ----
 
