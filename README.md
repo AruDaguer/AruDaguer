@@ -1,4 +1,4 @@
-### Hi, I'm Laura! &nbsp;&nbsp;<sup>👾 &#12299;Bem vindos ao meu perfil.</sup>
+### Hi, I'm Laura! &nbsp;&nbsp;<sup>👾 &#12299;WELCOME TO MY PROFILE! </sup>
 ----
 
 #### LANGUAGES 
@@ -22,7 +22,6 @@
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
   <img alt="laura's Spotify" width="95px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-</p>
 
 <br>
 
