@@ -9,7 +9,7 @@
 <img height="25" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL">
 </div>
 
-#### CONTACT ME:
+#### CONTACT ME
 <a href="https://www.linkedin.com/in/laura-daguer-024730292/">
   <img alt="guilyx's LinkdeIN" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
 </a>
@@ -25,6 +25,12 @@
 </p>
 
 <br>
+
+----
+
+
+#### ABOUT ME
+<img align="right" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
 
 ```yaml
 nome: Laura Daguer
@@ -42,11 +48,6 @@ aprenderá: ["php"]
 hobbies: ["dança", "instrumentos musicais", "teatro", "leitura"]
 ```
 </br>
-
-<br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
-</p>
-</div>
 
 
 
