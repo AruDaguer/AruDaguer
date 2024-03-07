@@ -24,7 +24,7 @@
   <img align="left" alt="laura's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open To Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 
 
