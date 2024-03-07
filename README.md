@@ -3,10 +3,10 @@
 <img align="right" width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=q202k7a6mmn1003l7hpzxhpmb&count=5">
 
 <div>
-<img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python">
-<img height="25" src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396">
-<img height="25" src="https://img.shields.io/badge/-C-000?&logo=C">
-<img height="25" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL">
+<img height="30" src="https://img.shields.io/badge/-Python-000?&logo=Python">
+<img height="30" src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396">
+<img height="30" src="https://img.shields.io/badge/-C-000?&logo=C">
+<img height="30" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL">
 </div>
 
 ----
