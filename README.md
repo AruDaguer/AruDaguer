@@ -11,7 +11,7 @@
 
 ----
 
- * I'm Laura Daguer, INFO student at IFSP, São Paulo. I dedicate myself to the study of Python and Java, with a special interest in UX. Outside of studies, I enjoy dancing, music, theater, and reading. I have completed notable projects in 2023, including "Elixir Maker," "RPG Manager," "ATOM," "Stock Exchange Simulator," and "GI360."
+ * I'm Laura Daguer, INFO student at IFSP, São Paulo. I dedicate myself to the study of Python and Java, with a special interest in UX. Outside of studies, I enjoy dancing, music, theater, and reading. I have completed notable projects in 2023, including "Elixir Maker", "ATOM", "Simulador de pregão na bolsa" and "GI360"
  * Studying HTML, JavaScript and TypeScript.
 
 ----
