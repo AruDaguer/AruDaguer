@@ -20,9 +20,6 @@
 <a href="https://www.instagram.com/arudaguer/">
   <img align="left" alt="laura's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/laura-daguer-024730292/">
-  <img align="left" alt="laura's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open To Work : <sub>&#9660; &#9660; &#9660;</sub>
 
