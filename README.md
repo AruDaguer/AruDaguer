@@ -11,8 +11,8 @@
 
 ----
 
- * I'm Laura Daguer, INFO student at IFSP, São Paulo. I dedicate myself to the study of Python and Java, with a special interest in UX. Outside of studies, I enjoy dancing, music, theater, and reading. I have completed notable projects in 2023, including "Elixir Maker", "ATOM", "Simulador de pregão na bolsa" and "GI360"
- * Studying HTML, JavaScript and Php.
+ * I'm Laura Daguer, an Information Technology student at IFSP in São Paulo, where I've developed projects including Elixir Maker (an RPG character management system), GrooveClub (a musician-focused social platform), and ATOM (a 3D-printed Sumo wrestling robot car). Outside of academic work, I built Moonlight Tasks - a personal task management application.
+ * Studying HTML and Php.
 
 ----
 
