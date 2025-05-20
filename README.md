@@ -11,7 +11,7 @@
 
 ----
 
- * I'm Laura Daguer, an Information Technology student at IFSP in São Paulo, where I've developed projects including Elixir Maker (an RPG character management system), GrooveClub (a musician-focused social platform), and ATOM (a 3D-printed Sumo wrestling robot car). Outside of academic work, I built Moonlight Tasks - a personal task management application.
+ * I'm Laura Daguer, an INFO student at IFSP in São Paulo, where I've developed projects including Elixir Maker (an RPG character management system), GrooveClub (a musician-focused social platform), and ATOM (a 3D-printed Sumo wrestling robot car). Outside of academic work, I built Moonlight Tasks - a personal task management application.
  * Studying HTML and Php.
 
 ----
